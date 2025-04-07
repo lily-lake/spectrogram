@@ -1,6 +1,8 @@
 # spectrogram
 Takes audio input from computer microphone and displays it visually. Shows frequency bands with peaks, which will correspond to the different resonances of the human voice. Using this, it is possible to build an intuitive understanding of how to affect R1, R2, and R3 resonances. Includes oscilloscope view, audio output option, and tuner. Built with WebAudio API
-
+  
+[Live Demo](https://spectrogram.t4t.gay/)
+  
 #### Reference
 - https://www.seattlevoicelab.com/2021/11/25/what-is-r1-r2-r3-how-do-they-effect-the-sound-of-your-voice/
 
